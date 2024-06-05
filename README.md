@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Atendra
+===============================================================================================================================
 
-<!--
-**IMAtendra/IMAtendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Developer & Designer
+I've been learning about to code for 3 years, after switching to careers. I started with Web Development, but have really found a passion for backend & Game development
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in India
+* 🖥️  Wanna See my [Portfolio](http://imatendra.github.io)
+* 🌱  I’m currently learning Backend development.
+* 🤝  I'm open to collaborating on your Projects.
+* 💬  Feel free Ask me about anything.
+* ⚡  I'm secretly Ironman.... but tell anyone.
